@@ -1,4 +1,4 @@
-A simple too that will perform pattern substitutions using Go's regex parser.
+A simple tool that will perform pattern substitutions using Go's regex parser.
 
 ### Install
 

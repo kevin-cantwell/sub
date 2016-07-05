@@ -1,0 +1,4 @@
+package: github.com/kevin-cantwell/sub
+import:
+- package: github.com/codegangsta/cli
+- package: github.com/urfave/cli
